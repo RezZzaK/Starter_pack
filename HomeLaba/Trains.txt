@@ -1,0 +1,4 @@
+1112 Amsterdam Paris 10:40 13:55 1000
+1113 Amsterdam Berlin 11:00 14:30 900
+1213 Paris Berlin 14:00 17:00 1100
+1214 Paris London 08:00 13:30 2000
